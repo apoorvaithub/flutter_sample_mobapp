@@ -1,4 +1,4 @@
-# test_app
+# flutter_sample_mobapp
 
 A new Flutter project.
 
